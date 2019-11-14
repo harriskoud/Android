@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\c5593352724446c7ae179a332032d9b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\05567614d711dfe6ef9d79dece0733f8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\d6b5d1d0e676ebc5163847c201dbe0a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\6cde1a26c59d014c1dfc88fc06afaa5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\8ea881e46db023f41702f257122963d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\5fe8d1b3ded1b09c0459e73370268907\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\8840bae059b7d95eca99b89718178af2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\80f84be167e7177bd7292b3caaaf4581\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\ba9a61d79910796c7c324fc9486ed5a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\721564323b180c456289f179e67f3c0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\d3a6cba17a5d69c76c3d5a5bff237c72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\db2208146f56c0fa101390ef126dfbd9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\c94476714e71924d12b3c806d9ca2367\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\8b8954da442ee5f6e9da985819c4a2d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\c9518959b3890366aeda2ca4ac384160\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\85468b946ec394dbc922b87014b0412f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\7ea28212e8de08651486b4a89fed6514\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\e39824d5f19a7cc23cbf695327d56ef9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\22c5b2855912fdef0826d28e9f412990\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\01a96f584afd839e20c2ce25b67c552b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\850ee604f13d950fadf9d2e556db0a7a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\5a992494b35d625accbc847475cf04a9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\3482c585139587b8bbe7213f5a63f8c2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\4969d7abffbab2d27e2a18cbe9f77191\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\94f865a1028b4fa074ddbb4303509d47\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\f71786548f07af7daa84a60d1eab1e27\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\984552c77a99e916c430c94842380862\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:3:11-40
+		INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\05567614d711dfe6ef9d79dece0733f8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\05567614d711dfe6ef9d79dece0733f8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\85468b946ec394dbc922b87014b0412f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\85468b946ec394dbc922b87014b0412f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\7ea28212e8de08651486b4a89fed6514\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\7ea28212e8de08651486b4a89fed6514\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\85468b946ec394dbc922b87014b0412f\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:11:13-44
+activity#com.koud.calculator.MainActivity
+ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\c5593352724446c7ae179a332032d9b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\c5593352724446c7ae179a332032d9b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\05567614d711dfe6ef9d79dece0733f8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\05567614d711dfe6ef9d79dece0733f8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\d6b5d1d0e676ebc5163847c201dbe0a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\d6b5d1d0e676ebc5163847c201dbe0a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\6cde1a26c59d014c1dfc88fc06afaa5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\6cde1a26c59d014c1dfc88fc06afaa5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\8ea881e46db023f41702f257122963d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\8ea881e46db023f41702f257122963d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\5fe8d1b3ded1b09c0459e73370268907\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\5fe8d1b3ded1b09c0459e73370268907\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\8840bae059b7d95eca99b89718178af2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\8840bae059b7d95eca99b89718178af2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\80f84be167e7177bd7292b3caaaf4581\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\80f84be167e7177bd7292b3caaaf4581\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\ba9a61d79910796c7c324fc9486ed5a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\ba9a61d79910796c7c324fc9486ed5a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\721564323b180c456289f179e67f3c0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\721564323b180c456289f179e67f3c0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\d3a6cba17a5d69c76c3d5a5bff237c72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\d3a6cba17a5d69c76c3d5a5bff237c72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\db2208146f56c0fa101390ef126dfbd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\db2208146f56c0fa101390ef126dfbd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\c94476714e71924d12b3c806d9ca2367\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\c94476714e71924d12b3c806d9ca2367\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\8b8954da442ee5f6e9da985819c4a2d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\8b8954da442ee5f6e9da985819c4a2d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\c9518959b3890366aeda2ca4ac384160\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\c9518959b3890366aeda2ca4ac384160\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\85468b946ec394dbc922b87014b0412f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\85468b946ec394dbc922b87014b0412f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\7ea28212e8de08651486b4a89fed6514\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\7ea28212e8de08651486b4a89fed6514\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\e39824d5f19a7cc23cbf695327d56ef9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\e39824d5f19a7cc23cbf695327d56ef9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\22c5b2855912fdef0826d28e9f412990\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\22c5b2855912fdef0826d28e9f412990\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\01a96f584afd839e20c2ce25b67c552b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\01a96f584afd839e20c2ce25b67c552b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\850ee604f13d950fadf9d2e556db0a7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\850ee604f13d950fadf9d2e556db0a7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\5a992494b35d625accbc847475cf04a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\5a992494b35d625accbc847475cf04a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\3482c585139587b8bbe7213f5a63f8c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\3482c585139587b8bbe7213f5a63f8c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\4969d7abffbab2d27e2a18cbe9f77191\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\4969d7abffbab2d27e2a18cbe9f77191\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\94f865a1028b4fa074ddbb4303509d47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\94f865a1028b4fa074ddbb4303509d47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\f71786548f07af7daa84a60d1eab1e27\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\f71786548f07af7daa84a60d1eab1e27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\984552c77a99e916c430c94842380862\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ckoudoumas\.gradle\caches\transforms-2\files-2.1\984552c77a99e916c430c94842380862\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ckoudoumas\Documents\Android\Calculator\app\src\main\AndroidManifest.xml
